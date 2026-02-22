@@ -2,7 +2,7 @@
 <h3 align="center">I’m passionate about problem-solving and building efficient solutions using programming and modern technologies</h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshiagrawal22&label=Profile%20views&color=0e75b6&style=flat" alt="himanshiagrawal22" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshiagrawal22&label=Profile%20views&color=0e75b6&style=flat" alt="himanshiagrawal22" /> </p> -->
 
 - 🔭 I’m currently learning **Data Structures & Algorithms | MERN STACK**
 
