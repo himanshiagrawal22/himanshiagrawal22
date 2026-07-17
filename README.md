@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Himanshi Agrawal</h1>
 
 <h3 align="center">
-🚀 Passionate about Problem Solving | Full Stack Development | Building Real-World Solutions
+Software Developer | AI & Machine Learning Enthusiast | Problem Solver
 </h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Information+Technology+Student;DSA+Enthusiast;MERN+Stack+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Software+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Learner;Data+Structures+%26+Algorithms" />
 
 </div>
 
 <hr>
 
 <p align="center">
-🔭 Currently Learning <b>Data Structures & Algorithms | MERN Stack</b> <br>
-📫 Reach Me At <b>himanshiagrawal222@gmail.com</b>
+🎓 <b>Information Technology Student</b> <br>
+🔭 Currently learning <b>Data Structures & Algorithms and AI/ML</b> <br>
+🌱 Exploring <b>Machine Learning, Computer Vision, and Real-World AI Applications</b> <br>
+💡 Passionate about building scalable web applications and intelligent software solutions. <br>
+📫 Reach me at <b>himanshiagrawal222@gmail.com</b>
 </p>
 
 <hr>
 
-<h3 align="center">⚒️ Languages and Tools</h3>
+<h3 align="center">⚒️ Languages & Tools</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,mongodb,mysql,git,bootstrap,arduino,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,nodejs,mongodb,mysql,git,bootstrap,vscode&perline=8" />
 
 </div>
 
@@ -65,6 +68,6 @@
 
 <div align="center">
 
-✨ “Code. Learn. Build. Repeat.” ✨
+✨ <i>"Building software that solves real-world problems through code and intelligent technology."</i>
 
 </div>
